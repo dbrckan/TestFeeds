@@ -1,6 +1,6 @@
 EAN,Price,DiscountPrice,Currency,Stock,IsPreorderEnabled,ExpectedAvailabilityDateUtc,IsActive
 4023122307129,31.99,27.99,EUR,999,false,,true
-4023122307136,31.99,,EUR,8,false,,true
+4023122307136,31.95,,EUR,8,false,,true
 4023122307143,31.99,,EUR,5,false,,true
 4023122306283,34.99,,EUR,18,false,,true
 4023122307150,34.99,,EUR,10,false,,true
